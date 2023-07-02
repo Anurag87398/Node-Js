@@ -163,5 +163,6 @@ server.listen(port, ()=> {
     ```
     localhost:3000
     ```
-- We'll get the output in the browser as: 
-
+- We'll get the output in the browser as:
+  <br><br>
+  ![Hemlo World](/Screenshots/HemloWorld.jpg)

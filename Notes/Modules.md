@@ -44,3 +44,6 @@ Node has both built-in modules as well as the ones which we can build ourselves.
     - We save this file as `customModule.js`.
     
     Thus, the desired output is achieved by running `customModule.js`.
+
+### Sources
+- https://www.w3schools.com/nodejs/nodejs_get_started.asp

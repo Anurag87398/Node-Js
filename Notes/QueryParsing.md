@@ -73,7 +73,7 @@ const server= http.createServer((req, res)=> {
     ```  
     We get the output in the terminal as:
 
-     ![parse_URL](../Screenshots/parseURL.jpg);
+     ![parse_URL](../Screenshots/parseURL.jpg)
     
     **NOTE:** The url.path() is `depricated` now.
     
